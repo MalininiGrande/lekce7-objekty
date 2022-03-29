@@ -22,3 +22,4 @@ auto['znacka'] = 'Skoda';
 // Vytvor tri promenne majitelka, znacka a spz a vloz do techto elementu text z objektu auto.
 let majitelka = auto.majitel.jmeno + ' ' + auto.majitel.prijmeni
 
+
